@@ -1,4 +1,4 @@
-public class TiposPrimitivos{
+public class SaidaDeDados{
 
     public static void main(String[] args){
         String nome = "Gustavo";
