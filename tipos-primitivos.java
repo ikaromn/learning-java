@@ -17,3 +17,23 @@ Integer idade = new Integer(3);
 Float sal = new Float(1925.54);
 Character letra = new Character('G');
 Boolean casado = new Boolean(false);
+
+
+/*
+Lógicos:
+-boolean
+
+Literais:
+-char
+--String
+
+Inteiros:
+-byte
+-short
+-int
+-long
+
+Reais:
+-float
+-double
+*/
